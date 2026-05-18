@@ -51,3 +51,5 @@ Key Insights:
 5) Product satisfaction varies across categories, with premium earbud products showing stronger customer approval.
 6) Sales distribution is relatively balanced, with no single state completely dominating overall performance.
 7) Customer retention (returning customers) is lower compared to acquisition-driven growth, indicating an opportunity for loyalty improvement.
+
+https://github.com/yashjaddhav/Customer-Engagement-Delivery-Performance-Report/blob/main/Snapshot%20of%20Dashboard.png
