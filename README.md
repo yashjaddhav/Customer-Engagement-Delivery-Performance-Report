@@ -3,27 +3,25 @@ Title - Customer Engagement & Delivery Performance Dashboard
 Description: The Customer Engagement & Delivery Performance Dashboard is an interactive data visualization project that analyzes sales performance, customer acquisition, product satisfaction, returns behavior, and regional revenue distribution across multiple states. The dashboard provides actionable business insights into customer behavior, operational efficiency, and product performance using dynamic charts, KPIs, and filters.
 
 Tech Stack:
-1) Power BI / Excel Dashboarding – Interactive visualization and reporting.
-2) Excel Dataset – Sales, returns, product, and customer data source.
-3) Power Query – Data cleaning, transformation, and preprocessing.
-4) DAX (Data Analysis Expressions) – KPI calculations and custom measures.
-5) Data Visualization Techniques – Line charts, bar charts, pie charts, KPI cards, and slicers.
+1) Excel Dashboarding – Interactive visualization and reporting.
+2) Excel Dataset – Sales, returns, product, and customer data source. 
+3) Data Visualization Techniques – Line charts, bar charts, pie charts, KPI cards, and slicers.
 
-Data Source: Kaggle
+Dataset Source: Kaggle
 
 Business Problem: Businesses handling multi-state retail operations often struggle to understand customer engagement patterns, product satisfaction levels, and return behavior across regions. Without proper analytics, it becomes difficult to optimize marketing strategies, improve product quality, and enhance customer retention.
 
 Goals:
-1) The objective of this project is to build an interactive analytics dashboard that helps analyze:
-2) State-wise revenue performance and sales distribution.
-3) Customer acquisition channels (Ads, Organic, Returning customers)
-4) Product-wise satisfaction levels and performance comparison.
-5) Return trends and operational efficiency over time.
-6) Unit sales distribution across different regions.
-7) Overall annual sales performance insights.
+The objective of this project is to build an interactive analytics dashboard that helps analyze:
+1) State-wise revenue performance and sales distribution.
+2) Customer acquisition channels (Ads, Organic, Returning customers)
+3) Product-wise satisfaction levels and performance comparison.
+4) Return trends and operational efficiency over time.
+5) Unit sales distribution across different regions.
+6) Overall annual sales performance insights.
 
 Project Highlights:
-1) Built an interactive Customer Engagement & Delivery Performance Dashboard using Power BI.
+1) Built an interactive Customer Engagement & Delivery Performance Dashboard using MS Excel.
 2) Analyzed multi-state sales and customer engagement data.
 3) Tracked returns trends across 2017–2019 to evaluate operational improvement.
 4) Compared product performance and satisfaction across multiple product categories.
@@ -45,7 +43,7 @@ Filters/Slicers: Enable dynamic analysis by state, product, year, and return sta
 
 Key Insights:
 1) Florida and South Carolina are among the top-performing states in terms of unit sales and revenue contribution.
-2) Return volumes show a consistent decline from 2017 to 2019, indicating improved operational efficiency and product/service quality.
+2) Return volumes show a consistent decline from 2017 to 2019, indicating improved operational efficiency and service quality.
 3) Ads are the most effective customer acquisition channel, outperforming organic and returning customer segments.
 4) North Carolina shows relatively lower performance in both revenue and unit sales compared to other states.
 5) Product satisfaction varies across categories, with premium earbud products showing stronger customer approval.
